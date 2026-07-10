@@ -4,55 +4,124 @@
 ██║         ██║      █████╗  ███████║██████╔╝██╔██╗ ██║██║██╔██╗ ██║██║  ███╗
 ██║         ██║      ██╔══╝  ██╔══██║██╔══██╗██║╚██╗██║██║██║╚██╗██║██║   ██║
 ╚██████╗    ███████╗ ███████╗██║  ██║██║  ██║██║ ╚████║██║██║ ╚████║╚██████╔╝
- ╚═════╝    ╚══════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
+ ╚═════╝    ╚══════╝ ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚═╝╚═╝  ╚═══╝ ╚═════╝
 
                      C   L E A R N I N G   J O U R N E Y
 ```
 
 # 📚 Learning C
 
-Welcome! This repository is my public coding journal while I learn **C** from scratch.
+Welcome to my C programming learning journey.
 
-The goal isn't to write perfect code—it's to **show up every day, improve, and stay consistent.**
+This repository is my public coding journal where I document my progress while learning **C from scratch**.
+
+The goal is not to write perfect code from day one. The goal is to **practice consistently, learn from mistakes, and improve every day.**
 
 ---
 
 ## 🎯 Why this repo?
 
-- 📅 Keep myself accountable
-- 💻 Practice C every day
-- 📈 Track my progress from beginner to (hopefully) competent
-- 🚀 Build discipline by coding consistently
-
-
-Each day contains:
-- Code written that day
-- Small experiments
-- Notes (when needed)
+* 📅 Keep myself accountable
+* 💻 Practice C consistently
+* 📈 Track my progress from beginner to confident programmer
+* 🚀 Build discipline through daily coding
+* 🧠 Understand how programming works at a deeper level
 
 ---
 
 ## 📖 Learning Resource
 
-I'm primarily learning C through **Bro Code** and supplementing it with documentation and additional resources whenever necessary.
+I am mainly learning C through **Bro Code's C programming course**.
+
+I also use documentation, examples, and additional resources whenever I need a deeper understanding of a topic.
 
 ---
 
+# 📂 Repository Structure
 
-## 📌 Rules
+Each learning day contains:
 
-- ✔️ Code as consistently as possible
-- ✔️ Push progress, even if it's messy
-- ✔️ Learn from mistakes instead of deleting them
-
----
-
-## ⚠️ Note
-
-This repository may become private in the future.
-
-For now, it's a public accountability log documenting my journey of learning C from day one.
+* 💻 Code written during that session
+* 🧪 Small experiments
+* 📝 Notes and explanations when needed
+* 🛠️ Practice programs
 
 ---
 
-> *"The best code you'll ever write is the code that makes you better than yesterday."*
+# 📅 Learning Progress
+
+### ✅ Topics Learned
+
+* Basic C syntax and program structure
+* Variables and data handling
+* Mathematical operations in C
+* Strings in C
+* Conditional statements:
+
+  * `if`
+  * `else if`
+  * `else`
+* `switch` statements
+
+---
+
+## 🛠️ Programs Built
+
+Projects and practice programs completed:
+
+* 🎲 Mad Libs Game
+* 💰 Compound Interest Calculator
+* ⚖️ Weight Converter
+* 🌡️ Temperature Converter
+
+---
+
+## 🧠 Current Understanding
+
+After 12 days, I have learned:
+
+* How a basic C program is structured
+* How to use variables and operators
+* How to take user input
+* How to perform calculations
+* How to control program flow using conditions
+* How to create simple console applications
+
+---
+
+# 🚀 Upcoming Topics
+
+Next topics I plan to learn:
+
+* 🔧 Functions
+* 📦 Arrays
+* 🔤 More string manipulation
+* 📍 Pointers
+* 🧠 Memory management
+* 🏗️ Data structures
+* 🛠️ Larger C projects
+
+---
+
+# 📌 My Rules
+
+* ✔️ Code consistently
+* ✔️ Push progress even when the code is messy
+* ✔️ Keep mistakes as part of the learning process
+* ✔️ Understand concepts instead of blindly copying code
+* ✔️ Improve a little every day
+
+---
+
+# ⚠️ Note
+
+This repository is a record of my learning process.
+
+Some code may not be optimized, and some solutions may not be the best approach. However, every program represents a step forward in understanding C.
+
+---
+
+> "The best code you'll ever write is the code that makes you better than yesterday."
+
+```
+```
